@@ -10,18 +10,26 @@
 📦 Iniciar App
 
 
-git clone <https://github.com/garu2/Tweet-Generator-ReactJs.git>
+git clone https://github.com/vcasbayprog/generador-tweets-react.git
 
-cd Tweet-Generator-ReactJs
+
+cd generador-tweets-react
+
 
 npm install
 
+
 npm run dev
+
 
 ⚙ Tecnologías 
 
+
 [React](https://react.dev/)
+
+
 [Vercel](https://vercel.com/home)
+
 
 
 🗃 NPM
